@@ -1,7 +1,7 @@
 
 # Pi IoT Lab
 
-![Pi IoT Lab Banner](PI_IOT_ASSETS\pi_iot_lab_banner.png)
+![Pi IoT Lab Banner](PI_IOT_ASSETS/pi_iot_lab_banner.png)
 
 Welcome to **Pi IoT Lab** – a curated collection of Raspberry Pi projects using Python, MicroPython, sensors, and IoT technology.
 
