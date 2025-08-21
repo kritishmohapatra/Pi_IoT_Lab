@@ -1,7 +1,7 @@
 # 💡 Raspberry Pi Pico 2 W - LED Blink with MicroPython
 
 ![Raspberry Pi Pico W](https://img.shields.io/badge/Board-Raspberry%20Pi%20Pico%202%20W-green?style=for-the-badge&logo=raspberrypi)
-![MicroPython](https://img.shields.io/badge/MicroPython-Programming-blue?style=for-the-badge&logo=python)
+![MicroPython](https://img.shields.io/badge/MicroPython-Programming-blue?style=for-the-badge&logo=micropython)
 ![Status](https://img.shields.io/badge/Status-Working-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
